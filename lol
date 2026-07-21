@@ -5,7 +5,7 @@ local Luna = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nebula-S
 local Window = Luna:CreateWindow({
     Name = "Painel do Desenvolvedor",
     Subtitle = "Ferramentas de Teste",
-    LogoID = "0", -- Coloque o ID da imagem do seu jogo aqui
+    LogoID = "5164288041", -- Coloque o ID da imagem do seu jogo aqui
     Theme = "Default",
     ShowInTaskbar = true
 })
