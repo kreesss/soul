@@ -11,7 +11,6 @@ local Window = Luna:CreateWindow({
 
 local Tab1 = Window:CreateTab({
     Name = "Utilitários",
-    Icon = "5164288041",
     HoverText = "Ferramentas Básicas"
 })
 
